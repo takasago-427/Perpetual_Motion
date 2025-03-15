@@ -1,0 +1,17 @@
+{
+	showIndicator: true,
+	indColor: -65536,
+	indAlpha: 0.75,
+	xOffset: 0,
+	yOffset: 0,
+	rotationDistance: 30,
+	scale: 1.0,
+	spriteAngleoffset: 0.0,
+	persistenceTime: 2.5,
+	style: "ANGULAR",
+	customResource: {
+		field_13353: "minecraft",
+		field_13355: "textures/block/sand.png",
+		cached_string: "minecraft:textures/block/sand.png"
+	}
+}

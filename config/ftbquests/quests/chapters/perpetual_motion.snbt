@@ -1,0 +1,297 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "perpetual_motion"
+	group: ""
+	icon: "create:creative_motor"
+	id: "5BC2FBE29266029E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"MODパックをダウンロードしてくれてありがとうございます！"
+				"Perpetual Motionは没入型のプレイ体験と、"
+				"ストレスフリーなクラフター生活の両立を目指すMODパックです！"
+				""
+				""
+				""
+				"まだアルファ版なので、大した要素がないことに注意してください（；´Д｀）"
+			]
+			icon: {
+				Count: 1
+				id: "minecraft:purpur_block"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"アルファ版であることを知らせるプルプァ\"}"
+					}
+				}
+			}
+			id: "56AAA4BA363DB014"
+			rewards: [{
+				id: "7C4684762B2A030D"
+				item: {
+					Count: 1
+					id: "minecraft:purpur_block"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"アルファ版であることを知らせるプルプァ\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 3.0d
+			subtitle: "Perpetual Motionについて"
+			tasks: [{
+				id: "685D77F6EF605039"
+				title: "はじめに"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56AAA4BA363DB014"]
+			description: [
+				"装備している装備と、インベントリにある装備の強さを比較したいとき、"
+				"インベントリにある装備にカーソルを合わせて"
+				"「w」キーを押してみてください！"
+			]
+			id: "3BB6C442EB2956AE"
+			rewards: [
+				{
+					id: "62E4481EC6DB0DA6"
+					item: {
+						Count: 1
+						id: "minecraft:leather_chestplate"
+						tag: {
+							AttributeModifiers: [{
+								Amount: 33
+								AttributeName: "generic.armor"
+								Name: "1741486270130"
+								Slot: "chest"
+								UUID: [I;
+									-12529
+									40806
+									103945
+									-81612
+								]
+							}]
+							Damage: 80
+							RepairCost: 114510
+							display: {
+								Name: "[\"\",{\"text\":\"千葉ロッテマリーンズ\",\"italic\":false}]"
+								color: 1908001
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "19FF35D962BDC85F"
+					item: {
+						Count: 1
+						id: "minecraft:leather_chestplate"
+						tag: {
+							AttributeModifiers: [{
+								Amount: 4
+								AttributeName: "generic.armor"
+								Name: "1741486270130"
+								Slot: "chest"
+								UUID: [I;
+									-12529
+									40806
+									103945
+									-81612
+								]
+							}]
+							Damage: 80
+							RepairCost: 114510
+							display: {
+								Name: "[\"\",{\"text\":\"阪神タイガース\",\"italic\":false}]"
+								color: 16701501
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1293F8FC63981900"
+				title: "装備品を比較する"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["56AAA4BA363DB014"]
+			description: [
+				"もしマルチプレイをする友達がいるなら、"
+				"「v」キーを押してボイスチャットの設定ができます！"
+				""
+				"設定が終わったら、マイク感度とミュートを確かめましょう！"
+				"・「M」で自分をミュート"
+				"・「N」で友達をミュート"
+			]
+			id: "4AEC91579B238C6E"
+			tasks: [{
+				id: "2F729BCD16A54459"
+				title: "ボイスチャット"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["56AAA4BA363DB014"]
+			description: [
+				"木を切りたいなら、一つ一つ切る必要はありません！"
+				"根本を一ブロックだけ切ってみてください！"
+			]
+			id: "1805EEB2187581B7"
+			tasks: [{
+				id: "3729B101F42E9FA5"
+				title: "木こり"
+				type: "checkmark"
+			}]
+			title: "木こり"
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["56AAA4BA363DB014"]
+			description: [
+				"鉱石を掘るのが面倒なとき、一括破壊ができます！"
+				""
+				"まさかマウスにボタンが3つしかない人なんていないですよね。えっ、マウスが無い？！"
+				"マウスの手前にあるボタンを親指で長押しすると、一括破壊モードに入ります！"
+				""
+				"ちょうど石炭が欲しかったところなので、掘ってきてもらえますか？"
+				"一括破壊するとお腹が減るので、差し入れを用意して待ってます☆"
+			]
+			id: "20AA68B7591CC66E"
+			rewards: [{
+				id: "3650738D2E9DCC23"
+				item: "minecraft:rotten_flesh"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "66F76F4D0670CE76"
+				item: { Count: 5, id: "minecraft:coal" }
+				type: "item"
+			}]
+			title: "一括破壊"
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["20AA68B7591CC66E"]
+			description: [
+				"チェストを動かしたいけど、チェストの中には私の大事なものが入っているんだ！"
+				""
+				"そんな時は、マウスの奥側のボタンを長押ししながら、チェストを右クリックしてみましょう！"
+				"手には何も持たないで！"
+				"もしかしたら他のものも動かせるかも？"
+			]
+			id: "08A885CAF5CEC5B5"
+			rewards: [
+				{
+					id: "4BC12BCA8147754D"
+					item: "minecraft:chest"
+					type: "item"
+				}
+				{
+					id: "37E1908745AAD2B5"
+					item: {
+						Count: 1
+						id: "minecraft:gold_nugget"
+						tag: {
+							RepairCost: 0
+							display: {
+								Name: "{\"text\":\"5000兆円\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B70F28E4DAC0393"
+				title: "Carry On"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["56AAA4BA363DB014"]
+			description: [
+				"前ばかり見ていると、後ろから鉄の剣を持ったゾンビに刺されますよ！"
+				""
+				"「F」キーを押して、せいぜい 背中に気をつけることだな…"
+				"???: おなかにもな！"
+			]
+			id: "0D8839EF8B217D44"
+			tasks: [{
+				id: "3E66EB6090CB4A5E"
+				title: "う し ろ だ"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["56AAA4BA363DB014"]
+			description: [
+				"育てた作物の種を植え直さないで！"
+				"クワで右クリックしてみてください！"
+			]
+			id: "7F530C70E24DABF1"
+			tasks: [{
+				id: "087020A129C8CB37"
+				title: "農家見習い"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["56AAA4BA363DB014"]
+			description: [
+				"左手に剣を持てるので、二刀流になれます！"
+				"左手に持ちたいアイテムを手に持って、"
+				"「G」を押してみてください！"
+				""
+				"これであなたも握力が31キロ！"
+			]
+			id: "6535013F1B3BEA2F"
+			rewards: [{
+				count: 2
+				id: "577DFD0CA1C9DEA7"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_sword"
+					tag: {
+						Damage: 59
+						RepairCost: 114512
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E9E006C1114A988"
+				title: "イキリト"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+	]
+	title: "Perpetual Motion"
+}

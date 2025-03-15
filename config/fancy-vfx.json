@@ -1,0 +1,22 @@
+{
+  "screenShakeIntensity": 0.5,
+  "lightningScreenShake": true,
+  "explosionScreenShake": true,
+  "improvedExplosions": true,
+  "explosionMultiplier": 1.0,
+  "underWaterExplosions": true,
+  "improvedLightning": true,
+  "improvedBow": "DISABLE",
+  "damageVFX": false,
+  "projectileCollision": false,
+  "statusEffectVFX": true,
+  "lightAura": false,
+  "connectingLightAura": false,
+  "maxConnectingLightAura": 3,
+  "expTrail": false,
+  "arrowTrail": false,
+  "smokeFromLightnings": true,
+  "smokeFromExplosions": true,
+  "smokeFromSprinting": false,
+  "smokeFromSprintingSizeMultiplier": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "debugLog": false,
+  "dispBothLanguagesOnTooltip": true,
+  "dispBothLanguagesOnJade": true,
+  "dispBothLanguagesOnWthit": true,
+  "replaceItemNames": false,
+  "subLanguage": "en_us",
+  "subLangOn1stLine": false
+}
