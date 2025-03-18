@@ -86,6 +86,8 @@ key_physicsmod.keybinding.togglephysics:key.keyboard.unknown:NONE
 key_physicsmod.keybinding.debug:key.keyboard.unknown:NONE
 key_key.presencefootsteps.settings:key.keyboard.unknown:NONE
 key_key.presencefootsteps.toggle:key.keyboard.unknown:NONE
+key_key.showmeyourskin.open_settings:key.keyboard.k:NONE
+key_key.showmeyourskin.global_toggle:key.keyboard.j:NONE
 key_soundsbegone.config:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt:NONE
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown:NONE

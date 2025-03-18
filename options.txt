@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Fancy Crops v1.1.zip","file/MickeyJoesBarelyDefault_V10.2.zip","immersive_weathering:visual_waxed_iron_items","subtle_effects:biome_color_water_particles","Moonlight Mods Dynamic Assets","file/Blue XP 1.20.zip","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/THIS_PACK_ON_TOP.zip","file/Create Title Menu 1.20+.zip","file/SmoothFont_1.20.zip","file/§lcolourful containers§8.zip"]
+resourcePacks:["vanilla","fabric","file/Fancy Crops v1.1.zip","file/Beautiful Enchanted Books - MC 1.20.X - 5.0.0.zip","immersive_weathering:visual_waxed_iron_items","subtle_effects:biome_color_water_particles","Moonlight Mods Dynamic Assets","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/Create Title Menu 1.20+.zip","file/SmoothFont_1.20.zip","file/rainbowXpBar_1.19-1.20.1.zip","file/§lcolourful containers§8.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ja_jp
@@ -172,6 +172,8 @@ key_physicsmod.keybinding.togglephysics:key.keyboard.unknown
 key_physicsmod.keybinding.debug:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
+key_key.showmeyourskin.open_settings:key.keyboard.k
+key_key.showmeyourskin.global_toggle:key.keyboard.j
 key_soundsbegone.config:key.keyboard.unknown
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
