@@ -37,6 +37,14 @@ There are so many debuggable insidents!
 - Add CameraOverhaul
 - Delete Gravestones
 - Add You're in Grave Danger
+- Add Simple Vainminer
+- Add Simple Vainminer
+- Delete FTB Ultimine
+- Add Giselbaer's Durability Viewer
+- Add Stitched Leather
+- Add Visual Workbench
+- Add Climb Ladders Fast
+- Add Durability Tooltip
 
 
 <br>
@@ -67,3 +75,9 @@ There are so many debuggable insidents!
 - CameraOverhaulを追加しました
 - Gravestonesを削除しました
 - You're in Grave Dangerを追加しました
+- Simple Vainminerを追加しました
+- FTB Ultimineを削除しました 
+- Stitched Leatherを追加しました
+- Visual Workbenchを追加しました
+- Climb Ladders Fastを追加しました
+- Durability Tooltipを追加しました
