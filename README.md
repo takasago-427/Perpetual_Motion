@@ -18,9 +18,10 @@ This is a branch of Alpha 1 version.
 There are so many debuggable insidents!
 
 **[Changes]**
-- 
+- Delete Brute force Rendering Culling
 
 
+<br>
 <br>
 <br>
 
@@ -31,4 +32,4 @@ There are so many debuggable insidents!
 問題点が非常に多くなっています！
 
 **[変更内容]**
-- 
+- Brute force Rendering Cullingを削除しました
