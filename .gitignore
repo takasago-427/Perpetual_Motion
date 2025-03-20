@@ -5,6 +5,7 @@
 *.jar
 *.sh~
 *.bat~
+*.txt~
 
 .curseclient
 .fabric/
