@@ -73,7 +73,7 @@
     "gravityMultiplier": 1.0
   },
   "snow": {
-    "enabled": true,
+    "enabled": false,
     "lowTraction": false,
     "restOnFloor": true,
     "bounceOffWalls": true,

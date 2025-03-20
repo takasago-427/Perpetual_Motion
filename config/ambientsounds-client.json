@@ -1,7 +1,7 @@
 {
   "general": {
     "engines": 0,
-    "volume": 0.24904213845729828,
+    "volume": 1,
     "useSoundMasterSource": false,
     "scanStepAmount": 100,
     "playSoundWithOffset": true
@@ -89,12 +89,12 @@
     },
     "forest": {
       "overall": 1,
-      "bird-ambience": 1,
-      "owl": 1
+      "bird-ambience": 0.4239482283592224,
+      "owl": 0.5048543810844421
     },
     "forest_roofed": {
       "overall": 1,
-      "bird-ambience-spooky": 1
+      "bird-ambience-spooky": 0.4253731369972229
     },
     "grass": {
       "overall": 1,
@@ -111,8 +111,8 @@
       "overall": 1,
       "cricket-jungle": 1,
       "cricket-jungle-night": 1,
-      "bird-ambience-jungle": 1,
-      "bird-ambience-jungle-night": 1
+      "bird-ambience-jungle": 0.4000000059604645,
+      "bird-ambience-jungle-night": 0.4000000059604645
     },
     "mesa": {
       "overall": 1,
@@ -147,7 +147,7 @@
       "cricket": 1,
       "cicadas": 1,
       "cicadas-desert": 1,
-      "cricket-warm-night": 1,
+      "cricket-warm-night": 0.4964788854122162,
       "wolf": 1,
       "long-wolf": 1,
       "bird-warm": 1

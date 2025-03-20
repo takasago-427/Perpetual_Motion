@@ -1,13 +1,12 @@
-# Perpetual Motion Alpha 1 - Test 3
+# Perpetual Motion Alpha 1 - Test 4
 
 <br>
-<br>
 
-### **[Two languages are supported]**
+### <p style="text-align: center;"><strong>[Two languages are supported]</strong></p><p style="text-align: center;">
 
-- **ENGLISH**
+<p style="text-align: center;"><span><strong>ENGLISH</strong></span></p>
 
-- **日本語**
+<p style="text-align: center;"><strong>日本語</strong></span></p>
 
 <br>
 <br>
@@ -19,34 +18,25 @@ This is a branch of Alpha 1 version.
 There are so many debuggable insidents!
 
 **[Changes]**
-- Delete quests in order to translate them with in-game language config (TBD)
-- Update some mods
-- Add Show Me Your Skin! (Hide armor)
-- Delete XXL Packets
-- Add Packet Fixer
-- Fix a issue whose default options are reset
-- Delete Barely Default
-- Delete Barely Default x Fresh Animations
-- Delete Blue XP
-- Add Taco's Rainbow XP Bar
-- Add Clear Glass with Connected Textures! [16x]
-- Add Comforts
-- Configure shader
-- Configure Particle Rain
-- Add Bedspreads
-- Add CameraOverhaul
-- Delete Gravestones
-- Add You're in Grave Danger
-- Add Simple Vainminer
-- Add Simple Vainminer
-- Delete FTB Ultimine
-- Add Giselbaer's Durability Viewer
-- Add Stitched Leather
+- Delete Brute force Rendering Culling
+- Change Shader Settings
+- Delete Bobby
+- Add resource packs which isn't reflected
+- Delete Climb Ladders Fast
+- Change configs of Simple Vein Miner
+- Add Double Doors
 - Add Visual Workbench
-- Add Climb Ladders Fast
-- Add Durability Tooltip
+- Add You're in Grave Danger
+- Add Polymorphic Energistics
+- Change configs of Applied Energistics 2
+- Change sound configs
+- Change configs of BCLib
+- Change configs of Right Click Harbest
+- Add Smooth Scrolling Refurbished
+- Add Durability 101
+- Add Auto HUD
 
-
+<br>
 <br>
 <br>
 
@@ -57,27 +47,21 @@ There are so many debuggable insidents!
 問題点が非常に多くなっています！
 
 **[変更内容]**
-- ゲーム内言語設定で翻訳可能にするため、クエストを削除しました(まだ未定)
-- いくつかのMODを更新しました
-- Show Me Your Skin!を追加しました
-- XXL Packetsを削除しました
-- Packet Fixerを追加しました
-- デフォルト設定がリセットされている問題に対処しました
-- Barely Defaultを削除しました
-- Barely Default x Fresh Animationsを削除しました
-- Blue XPを削除しました
-- Taco's Rainbow XP Barを追加しました
-- Clear Glass with Connected Textures! [16x]を追加しました
-- Comfortsを追加しました
+- Brute force Rendering Cullingを削除しました
 - 影MODの設定を変更しました
-- Particle Rainの設定を変更しました
-- Bedspreadsを追加しました
-- CameraOverhaulを追加しました
-- Gravestonesを削除しました
-- You're in Grave Dangerを追加しました
-- Simple Vainminerを追加しました
-- FTB Ultimineを削除しました 
-- Stitched Leatherを追加しました
+- Bobbyを削除しました
+- 一部リソースパックが導入されていない問題に対処しました
+- Climb Ladders Fastを削除しました
+- Simple Vein Minerの設定を変更しました
+- Double Doorsを追加しました
 - Visual Workbenchを追加しました
-- Climb Ladders Fastを追加しました
-- Durability Tooltipを追加しました
+- You're in Grave Dangerを追加しました
+- Polymorphic Energisticsを追加しました
+- Applied Energistics 2の設定を変更しました
+- 音周りの設定を変更しました
+- Fancy Block Particlesの設定を変更しました
+- BCLibの設定を変更しました
+- Right Click Harbestの設定を変更しました
+- Smooth Scrolling Refurbishedを追加しました
+- Durability 101を追加しました
+- Auto HUDを追加しました

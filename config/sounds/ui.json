@@ -1,7 +1,7 @@
 {
 	"hotbarScrollSoundEffect": {
 		"pitch": 1.8,
-		"volume": 0.2,
+		"volume": 0.4,
 		"enabledDynamic": true,
 		"id": "hotbarScroll",
 		"soundEvent": "minecraft:block.note_block.hat",
@@ -9,7 +9,7 @@
 	},
 	"hotbarPickSoundEffect": {
 		"pitch": 1.8,
-		"volume": 0.2,
+		"volume": 0.4,
 		"enabledDynamic": true,
 		"id": "hotbarPick",
 		"soundEvent": "minecraft:block.note_block.hat",
@@ -34,7 +34,7 @@
 	"inventoryScrollSoundEffect": {
 		"shouldPlay": true,
 		"pitch": 1.8,
-		"volume": 0.2,
+		"volume": 0.5,
 		"id": "inventoryScroll",
 		"soundEvent": "minecraft:block.note_block.hat"
 	},
