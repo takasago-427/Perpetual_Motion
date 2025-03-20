@@ -21,6 +21,7 @@ There are so many debuggable insidents!
 - Delete Brute force Rendering Culling
 - Change Shader Settings
 - Delete Bobby
+- Add resource packs which isn't reflected
 
 
 <br>
@@ -37,3 +38,4 @@ There are so many debuggable insidents!
 - Brute force Rendering Cullingを削除しました
 - 影MODの設定を変更しました
 - Bobbyを削除しました
+- 一部リソースパックが導入されていない問題に対処しました
