@@ -45,7 +45,7 @@ renderClouds:"true"
 resourcePacks:["vanilla","fabric","file/Fancy Crops v1.1.zip","file/Beautiful Enchanted Books - MC 1.20.X - 5.0.0.zip","immersive_weathering:visual_waxed_iron_items","subtle_effects:biome_color_water_particles","Moonlight Mods Dynamic Assets","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/Create Title Menu 1.20+.zip","file/SmoothFont_1.20.zip","file/rainbowXpBar_1.19-1.20.1.zip","file/§lcolourful containers§8.zip"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:ja_jp
+lang:en_us
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
@@ -124,6 +124,8 @@ key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.ae2.portable_item_cell:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ae2.guide:key.keyboard.w
+key_key.autohud.toggle-hud:key.keyboard.g
+key_key.autohud.peek-hud:key.keyboard.r
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.carry.desc:key.mouse.5
