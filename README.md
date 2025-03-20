@@ -37,6 +37,7 @@ There are so many debuggable insidents!
 - Add You're in Grave Danger
 - Add Polymorphic Energistics
 - Change configs of Applied Energistics 2
+- Change sound configs
 
 <br>
 <br>
@@ -68,3 +69,4 @@ There are so many debuggable insidents!
 - You're in Grave Dangerを追加しました
 - Polymorphic Energisticsを追加しました
 - Applied Energistics 2の設定を変更しました
+- 音周りの設定を変更しました
