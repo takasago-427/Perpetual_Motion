@@ -32,7 +32,7 @@ There are so many debuggable insidents!
 - Fix issue - connection is lost when guns from tacz is shot
 - Delete Bobby
 - Change configs of Simple Vein Miner
-
+- Add Double Doors
 
 <br>
 <br>
@@ -59,3 +59,4 @@ There are so many debuggable insidents!
 - taczの銃を撃つと接続が切断される問題を修正しました
 - Bobbyを削除しました
 - Simple Vein Minerの設定を変更しました
+- Double Doorsを追加しました
