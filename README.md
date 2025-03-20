@@ -1,7 +1,7 @@
 # Perpetual_Motion
 <a href="https://www.curseforge.com/minecraft/modpacks/perpetual-motion"><img src="http://cf.way2muchnoise.eu/full_1216779_downloads.svg" /></a> <a href="https://www.curseforge.com/minecraft/modpacks/perpetual-motion"><img src="https://cf.way2muchnoise.eu/versions/For%20MC_1216779_all.svg" /></a>
 
-### <p style="text-align: center;"><strong>[Two languages are surported]</strong></p><p style="text-align: center;">
+### <p style="text-align: center;"><strong>[Two languages are supported]</strong></p><p style="text-align: center;">
 
 <p style="text-align: center;"><span><strong>ENGLISH</strong></span></p>
 
@@ -116,6 +116,7 @@ Tech Rebornの追加は考えていませんが、Create Crafts & Additionsの�
 
 なにそれ(検討中)
 
+<br>
 <br>
 
 ## 🪄魔術
