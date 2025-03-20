@@ -30,7 +30,7 @@ There are so many debuggable insidents!
 - Add Polymorphic Energistics
 - Change configs of Applied Energistics 2
 - Change sound configs
-- Add Fancy Block Particles
+- Change configs of BCLib
 
 <br>
 <br>
@@ -56,3 +56,4 @@ There are so many debuggable insidents!
 - Applied Energistics 2の設定を変更しました
 - 音周りの設定を変更しました
 - Fancy Block Particlesの設定を変更しました
+- BCLibの設定を変更しました
