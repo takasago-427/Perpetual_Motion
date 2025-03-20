@@ -34,6 +34,7 @@ There are so many debuggable insidents!
 - Change configs of Simple Vein Miner
 - Add Double Doors
 - Add Visual Workbench
+- Add You're in Grave Danger
 
 <br>
 <br>
@@ -62,3 +63,4 @@ There are so many debuggable insidents!
 - Simple Vein Minerの設定を変更しました
 - Double Doorsを追加しました
 - Visual Workbenchを追加しました
+- You're in Grave Dangerを追加しました
