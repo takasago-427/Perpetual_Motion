@@ -20,7 +20,7 @@
     "patchiness": 0.4,
     "immune_chance": 0.4,
     "needs_air": false,
-    "enabled": true
+    "enabled": false
   },
   "icicle": {
     "react_to_vibrations": true,

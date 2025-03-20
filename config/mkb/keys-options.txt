@@ -43,7 +43,6 @@ key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown:NONE
 key_key.carry.desc:key.mouse.5:NONE
 key_key.cavedust.toggle:key.keyboard.unknown:NONE
 key_key.cavedust.reload:key.keyboard.unknown:NONE
-key_key.climbladdersfast.toggle:key.keyboard.unknown:NONE
 key_keybinds.combatroll.roll:key.keyboard.r:NONE
 key_create.keyinfo.toolmenu:key.keyboard.unknown:NONE
 key_create.keyinfo.toolbelt:key.keyboard.unknown:NONE
