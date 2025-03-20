@@ -36,6 +36,7 @@ There are so many debuggable insidents!
 - Add Visual Workbench
 - Add You're in Grave Danger
 - Add Polymorphic Energistics
+- Change configs of Applied Energistics 2
 
 <br>
 <br>
@@ -66,3 +67,4 @@ There are so many debuggable insidents!
 - Visual Workbenchを追加しました
 - You're in Grave Dangerを追加しました
 - Polymorphic Energisticsを追加しました
+- Applied Energistics 2の設定を変更しました
