@@ -44,6 +44,7 @@ There are so many debuggable insidents!
 - Add Smooth Scrolling Refurbished
 - Add Durability 101
 - Add Auto HUD
+- Copy _/config_ from _client/dev_
 
 <br>
 <br>
@@ -82,3 +83,4 @@ There are so many debuggable insidents!
 - Smooth Scrolling Refurbishedを追加しました
 - Durability 101を追加しました
 - Auto HUDを追加しました
+- _/Config_ を _client/dev_ から移植しました
