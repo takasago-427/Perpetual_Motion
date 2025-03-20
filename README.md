@@ -33,6 +33,7 @@ There are so many debuggable insidents!
 - Change configs of BCLib
 - Change configs of Right Click Harbest
 - Add Smooth Scrolling Refurbished
+- Add Durability 101
 
 <br>
 <br>
@@ -61,3 +62,4 @@ There are so many debuggable insidents!
 - BCLibの設定を変更しました
 - Right Click Harbestの設定を変更しました
 - Smooth Scrolling Refurbishedを追加しました
+- Durability 101を追加しました
