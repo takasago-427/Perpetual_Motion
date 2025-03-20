@@ -36,6 +36,13 @@ Animations, effects, sounds, shaders, and others are replaced. I pursue both rea
 <br>
 <br>
 
+## 📚️Quests
+
+TBA!
+
+<br>
+<br>
+
 ## ⚔️Adventure
 
 Few mods which contained adventures and RPG categories is implemented. Not be deployed. I will configure someday.
@@ -68,7 +75,6 @@ I don't know which is better, so I picked up one magic mod I found.
 <br>
 <br>
 <br>
-<br>
 
 ## **日本語**
 
@@ -95,6 +101,14 @@ I don't know which is better, so I picked up one magic mod I found.
 
 <br>
 <br>
+
+## 📚️クエスト
+
+クエストは現在準備中です！
+
+<br>
+<br>
+
 
 ## ⚔️冒険
 
