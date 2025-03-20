@@ -31,6 +31,7 @@ There are so many debuggable insidents!
 - Fix mistakes of filepass ralated jarfile on _run.bat_
 - Fix issue - connection is lost when guns from tacz is shot
 - Delete Bobby
+- Change configs of Simple Vein Miner
 
 
 <br>
@@ -57,3 +58,4 @@ There are so many debuggable insidents!
 - _run.bat_ のjarファイルのパスが間違っている問題を修正しました
 - taczの銃を撃つと接続が切断される問題を修正しました
 - Bobbyを削除しました
+- Simple Vein Minerの設定を変更しました
