@@ -28,9 +28,11 @@ There are so many debuggable insidents!
 <br>
 
 **[Changes]**
-- 
+- Fix mistakes of filepass ralated jarfile on _run.bat_
+- Fix issue - connection is lost when guns from tacz is shot
 
 
+<br>
 <br>
 <br>
 
@@ -51,4 +53,5 @@ There are so many debuggable insidents!
 <br>
 
 **[変更内容]**
-- 
+- _run.bat_ のjarファイルのパスが間違っている問題を修正しました
+- taczの銃を撃つと接続が切断される問題を修正しました
