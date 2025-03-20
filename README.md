@@ -40,6 +40,7 @@ There are so many debuggable insidents!
 - Change sound configs
 - Change configs of Fancy Block Particles
 - Change configs of BCLib
+- Change configs of Right Click Harbest
 
 <br>
 <br>
@@ -74,3 +75,4 @@ There are so many debuggable insidents!
 - 音周りの設定を変更しました
 - Fancy Block Particlesの設定を変更しました
 - BCLibの設定を変更しました
+- Right Click Harbestの設定を変更しました
