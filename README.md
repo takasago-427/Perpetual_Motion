@@ -30,6 +30,7 @@ There are so many debuggable insidents!
 **[Changes]**
 - Fix mistakes of filepass ralated jarfile on _run.bat_
 - Fix issue - connection is lost when guns from tacz is shot
+- Delete Bobby
 
 
 <br>
@@ -55,3 +56,4 @@ There are so many debuggable insidents!
 **[変更内容]**
 - _run.bat_ のjarファイルのパスが間違っている問題を修正しました
 - taczの銃を撃つと接続が切断される問題を修正しました
+- Bobbyを削除しました
