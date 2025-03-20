@@ -24,6 +24,7 @@ There are so many debuggable insidents!
 - Add resource packs which isn't reflected
 - Delete Climb Ladders Fast
 - Change configs of Simple Vein Miner
+- Add Double Doors
 
 
 <br>
@@ -43,3 +44,4 @@ There are so many debuggable insidents!
 - 一部リソースパックが導入されていない問題に対処しました
 - Climb Ladders Fastを削除しました
 - Simple Vein Minerの設定を変更しました
+- Double Doorsを追加しました
