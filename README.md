@@ -41,6 +41,7 @@ There are so many debuggable insidents!
 - Change configs of Fancy Block Particles
 - Change configs of BCLib
 - Change configs of Right Click Harbest
+- Add Smooth Scrolling Refurbished
 
 <br>
 <br>
@@ -76,3 +77,4 @@ There are so many debuggable insidents!
 - Fancy Block Particlesの設定を変更しました
 - BCLibの設定を変更しました
 - Right Click Harbestの設定を変更しました
+- Smooth Scrolling Refurbishedを追加しました
