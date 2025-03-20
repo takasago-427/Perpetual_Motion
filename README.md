@@ -38,6 +38,7 @@ There are so many debuggable insidents!
 - Add Polymorphic Energistics
 - Change configs of Applied Energistics 2
 - Change sound configs
+- Change configs of Fancy Block Particles
 
 <br>
 <br>
@@ -70,3 +71,4 @@ There are so many debuggable insidents!
 - Polymorphic Energisticsを追加しました
 - Applied Energistics 2の設定を変更しました
 - 音周りの設定を変更しました
+- Fancy Block Particlesの設定を変更しました
