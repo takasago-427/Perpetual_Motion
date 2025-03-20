@@ -1,13 +1,12 @@
 # Perpetual Motion Alpha 1 - Test 3
 
 <br>
-<br>
 
-### **[Two languages are supported]**
+### <p style="text-align: center;"><strong>[Two languages are supported]</strong></p><p style="text-align: center;">
 
-- **ENGLISH**
+<p style="text-align: center;"><span><strong>ENGLISH</strong></span></p>
 
-- **日本語**
+<p style="text-align: center;"><strong>日本語</strong></span></p>
 
 <br>
 <br>
