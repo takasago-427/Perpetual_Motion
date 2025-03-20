@@ -22,6 +22,7 @@ There are so many debuggable insidents!
 - Change Shader Settings
 - Delete Bobby
 - Add resource packs which isn't reflected
+- Delete Climb Ladders Fast
 
 
 <br>
@@ -39,3 +40,4 @@ There are so many debuggable insidents!
 - 影MODの設定を変更しました
 - Bobbyを削除しました
 - 一部リソースパックが導入されていない問題に対処しました
+- Climb Ladders Fastを削除しました
