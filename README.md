@@ -33,6 +33,7 @@ There are so many debuggable insidents!
 - Delete Bobby
 - Change configs of Simple Vein Miner
 - Add Double Doors
+- Add Visual Workbench
 
 <br>
 <br>
@@ -60,3 +61,4 @@ There are so many debuggable insidents!
 - Bobbyを削除しました
 - Simple Vein Minerの設定を変更しました
 - Double Doorsを追加しました
+- Visual Workbenchを追加しました
