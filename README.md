@@ -27,6 +27,7 @@ There are so many debuggable insidents!
 - Add Double Doors
 - Add Visual Workbench
 - Add You're in Grave Danger
+- Add Polymorphic Energistics
 
 <br>
 <br>
@@ -48,3 +49,4 @@ There are so many debuggable insidents!
 - Double Doorsを追加しました
 - Visual Workbenchを追加しました
 - You're in Grave Dangerを追加しました
+- Polymorphic Energisticsを追加しました
