@@ -24,6 +24,7 @@ There are so many debuggable insidents!
 - Change configs of HUD and key-binding
 - Add First Aid
 - Add Crafting Tweaks
+- Change configs of Tough As Nails
 
 <br>
 <br>
@@ -42,3 +43,4 @@ There are so many debuggable insidents!
 - HUDの見た目、キー設定を変更しました
 - First Aidを追加しました
 - Crafting Tweaksを追加しました
+- Tough As Nailsの設定を変更しました
