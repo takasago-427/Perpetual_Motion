@@ -44,6 +44,7 @@ There are so many debuggable insidents!
 - Add Eating Animation
 - Add Spyglass Improvements: Zoom, Quick Access...
 - Fix overlaps of effects over slimes and magma cubes
+- Change configs of Physics
 
 <br>
 <br>
@@ -82,3 +83,4 @@ There are so many debuggable insidents!
 - Eating Animationを追加しました
 - Spyglass Improvements: Zoom, Quick Access...を追加しました
 - スライムとマグマキューブのエフェクト重複を修正しました
+- Physicsの設定を変更しました
