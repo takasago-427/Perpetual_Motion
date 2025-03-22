@@ -31,6 +31,7 @@ There are so many debuggable insidents!
 - Fix issue - connection is lost when guns from tacz is shot is not fixed
 - Delete Auto HUD
 - Delete Visual Workbench
+- Change configs of HUD and key-binding
 
 <br>
 <br>
@@ -56,3 +57,4 @@ There are so many debuggable insidents!
 - taczの銃を撃つと接続が切断される問題を修正できていない問題を修正しました
 - Auto HUDを削除しました
 - Visual Workbenchを削除しました
+- HUDの見た目、キー設定を変更しました
