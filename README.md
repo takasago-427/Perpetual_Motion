@@ -35,6 +35,7 @@ There are so many debuggable insidents!
 - Add First Aid
 - Add Crafting Tweaks
 - Change configs of Tough As Nails
+- Add Slot Cycler
 
 <br>
 <br>
@@ -64,3 +65,4 @@ There are so many debuggable insidents!
 - First Aidを追加しました
 - Crafting Tweaksを追加しました
 - Tough As Nailsの設定を変更しました
+- Slot Cyclerを追加しました
