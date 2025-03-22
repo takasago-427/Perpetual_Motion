@@ -21,6 +21,7 @@ There are so many debuggable insidents!
 - Delete Auto HUD
 - Change configs of shader
 - Delete Visual Workbench
+- Change configs of HUD and key-binding
 
 <br>
 <br>
@@ -36,3 +37,4 @@ There are so many debuggable insidents!
 - Auto HUDを削除しました
 - 影MODの設定を変更しました
 - Visual Workbenchを削除しました
+- HUDの見た目、キー設定を変更しました

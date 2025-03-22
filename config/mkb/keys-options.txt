@@ -43,7 +43,7 @@ key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown:NONE
 key_key.carry.desc:key.mouse.5:NONE
 key_key.cavedust.toggle:key.keyboard.unknown:NONE
 key_key.cavedust.reload:key.keyboard.unknown:NONE
-key_keybinds.combatroll.roll:key.keyboard.r:NONE
+key_keybinds.combatroll.roll:key.keyboard.x:NONE
 key_create.keyinfo.toolmenu:key.keyboard.unknown:NONE
 key_create.keyinfo.toolbelt:key.keyboard.unknown:NONE
 key_create.keyinfo.ponder:key.keyboard.w:NONE
@@ -98,7 +98,7 @@ key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown:NONE
 key_key.tacz.inspect.desc:key.keyboard.h:NONE
-key_key.tacz.reload.desc:key.keyboard.x:NONE
+key_key.tacz.reload.desc:key.keyboard.r:NONE
 key_key.tacz.shoot.desc:key.mouse.left:NONE
 key_key.tacz.interact.desc:key.mouse.middle:NONE
 key_key.tacz.fire_select.desc:key.keyboard.y:NONE
@@ -109,12 +109,12 @@ key_key.tacz.melee.desc:key.keyboard.unknown:NONE
 key_key.tacz.open_config.desc:key.keyboard.unknown:NONE
 key_key.push_to_talk:key.keyboard.unknown:NONE
 key_key.whisper:key.keyboard.unknown:NONE
-key_key.mute_microphone:key.keyboard.m:NONE
-key_key.disable_voice_chat:key.keyboard.n:NONE
-key_key.hide_icons:key.keyboard.k:NONE
-key_key.voice_chat:key.keyboard.v:NONE
+key_key.mute_microphone:key.keyboard.unknown:NONE
+key_key.disable_voice_chat:key.keyboard.unknown:NONE
+key_key.hide_icons:key.keyboard.unknown:NONE
+key_key.voice_chat:key.keyboard.m:NONE
 key_key.voice_chat_settings:key.keyboard.unknown:NONE
-key_key.voice_chat_group:key.keyboard.j:NONE
+key_key.voice_chat_group:key.keyboard.unknown:NONE
 key_key.voice_chat_toggle_recording:key.keyboard.unknown:NONE
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.unknown:NONE

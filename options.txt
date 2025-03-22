@@ -129,7 +129,7 @@ key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.carry.desc:key.mouse.5
 key_key.cavedust.toggle:key.keyboard.unknown
 key_key.cavedust.reload:key.keyboard.unknown
-key_keybinds.combatroll.roll:key.keyboard.r
+key_keybinds.combatroll.roll:key.keyboard.x
 key_create.keyinfo.toolmenu:key.keyboard.unknown
 key_create.keyinfo.toolbelt:key.keyboard.unknown
 key_create.keyinfo.ponder:key.keyboard.w
@@ -184,7 +184,7 @@ key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
 key_key.tacz.inspect.desc:key.keyboard.h
-key_key.tacz.reload.desc:key.keyboard.x
+key_key.tacz.reload.desc:key.keyboard.r
 key_key.tacz.shoot.desc:key.mouse.left
 key_key.tacz.interact.desc:key.mouse.middle
 key_key.tacz.fire_select.desc:key.keyboard.y
@@ -195,12 +195,12 @@ key_key.tacz.melee.desc:key.keyboard.unknown
 key_key.tacz.open_config.desc:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.n
-key_key.hide_icons:key.keyboard.k
-key_key.voice_chat:key.keyboard.v
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.m
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.j
+key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
