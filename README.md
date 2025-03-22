@@ -36,6 +36,7 @@ There are so many debuggable insidents!
 - Add Crafting Tweaks
 - Change configs of Tough As Nails
 - Add Slot Cycler
+- Add Clear Despawn
 
 <br>
 <br>
@@ -66,3 +67,4 @@ There are so many debuggable insidents!
 - Crafting Tweaksを追加しました
 - Tough As Nailsの設定を変更しました
 - Slot Cyclerを追加しました
+- Clear Despawnを追加しました
