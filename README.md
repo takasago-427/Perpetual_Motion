@@ -38,6 +38,7 @@ There are so many debuggable insidents!
 - Add Slot Cycler
 - Add Clear Despawn
 - Add Inventory Totem
+- Add Item Scroller
 
 <br>
 <br>
@@ -70,3 +71,4 @@ There are so many debuggable insidents!
 - Slot Cyclerを追加しました
 - Clear Despawnを追加しました
 - Inventory Totemを追加しました
+- Item Scrollerを追加しました
