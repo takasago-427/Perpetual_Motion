@@ -30,6 +30,7 @@ There are so many debuggable insidents!
 - Add Inventory Totem
 - Add Item Scroller
 - Add Horse Stats Vanilla
+- Add Jump Over Fences
 
 <br>
 <br>
@@ -54,3 +55,4 @@ There are so many debuggable insidents!
 - Inventory Totemを追加しました
 - Item Scrollerを追加しました
 - Horse Stats Vanillaを追加しました
+- Jump Over Fencesを追加しました
