@@ -28,23 +28,7 @@ There are so many debuggable insidents!
 <br>
 
 **[Changes]**
-- Fix mistakes of filepass ralated jarfile on _run.bat_
-- Fix issue - connection is lost when guns from tacz is shot
-- Delete Bobby
-- Change configs of Simple Vein Miner
-- Add Double Doors
-- Add Visual Workbench
-- Add You're in Grave Danger
-- Add Polymorphic Energistics
-- Change configs of Applied Energistics 2
-- Change sound configs
-- Change configs of Fancy Block Particles
-- Change configs of BCLib
-- Change configs of Right Click Harbest
-- Add Smooth Scrolling Refurbished
-- Add Durability 101
-- Add Auto HUD
-- Copy _/config_ from _client/dev_
+- Fix issue - connection is lost when guns from tacz is shot is not fixed
 
 <br>
 <br>
@@ -67,20 +51,4 @@ There are so many debuggable insidents!
 <br>
 
 **[変更内容]**
-- _run.bat_ のjarファイルのパスが間違っている問題を修正しました
-- taczの銃を撃つと接続が切断される問題を修正しました
-- Bobbyを削除しました
-- Simple Vein Minerの設定を変更しました
-- Double Doorsを追加しました
-- Visual Workbenchを追加しました
-- You're in Grave Dangerを追加しました
-- Polymorphic Energisticsを追加しました
-- Applied Energistics 2の設定を変更しました
-- 音周りの設定を変更しました
-- Fancy Block Particlesの設定を変更しました
-- BCLibの設定を変更しました
-- Right Click Harbestの設定を変更しました
-- Smooth Scrolling Refurbishedを追加しました
-- Durability 101を追加しました
-- Auto HUDを追加しました
-- _/Config_ を _client/dev_ から移植しました
+- taczの銃を撃つと接続が切断される問題を修正できていない問題を修正しました
