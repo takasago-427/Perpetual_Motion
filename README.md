@@ -42,6 +42,7 @@ There are so many debuggable insidents!
 - Add Horse Stats Vanilla
 - Add Jump Over Fences
 - Add Eating Animation
+- Add Spyglass Improvements: Zoom, Quick Access...
 
 <br>
 <br>
@@ -78,3 +79,4 @@ There are so many debuggable insidents!
 - Horse Stats Vanillaを追加しました
 - Jump Over Fencesを追加しました
 - Eating Animationを追加しました
+- Spyglass Improvements: Zoom, Quick Access...を追加しました
