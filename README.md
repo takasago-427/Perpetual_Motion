@@ -1,4 +1,4 @@
-# Perpetual Motion Alpha 1 - Test 4
+# Perpetual Motion Alpha 1 - Test 5
 
 <br>
 
@@ -18,23 +18,24 @@ This is a branch of Alpha 1 version.
 There are so many debuggable insidents!
 
 **[Changes]**
-- Delete Brute force Rendering Culling
-- Change Shader Settings
-- Delete Bobby
-- Add resource packs which isn't reflected
-- Delete Climb Ladders Fast
-- Change configs of Simple Vein Miner
-- Add Double Doors
-- Add Visual Workbench
-- Add You're in Grave Danger
-- Add Polymorphic Energistics
-- Change configs of Applied Energistics 2
-- Change sound configs
-- Change configs of BCLib
-- Change configs of Right Click Harbest
-- Add Smooth Scrolling Refurbished
-- Add Durability 101
-- Add Auto HUD
+- Delete Auto HUD
+- Change configs of shader
+- Delete Visual Workbench
+- Change configs of HUD and key-binding
+- Add First Aid
+- Add Crafting Tweaks
+- Change configs of Tough As Nails
+- Add Slot Cycler
+- Add Clear Despawn
+- Add Inventory Totem
+- Add Item Scroller
+- Add Horse Stats Vanilla
+- Add Jump Over Fences
+- Add Eating Animation
+- Add Spyglass Improvements: Zoom, Quick Access...
+- Fix overlaps of effects over slimes and magma cubes
+- Change configs of Physics
+- Update some mods
 
 <br>
 <br>
@@ -47,21 +48,21 @@ There are so many debuggable insidents!
 問題点が非常に多くなっています！
 
 **[変更内容]**
-- Brute force Rendering Cullingを削除しました
+- Auto HUDを削除しました
 - 影MODの設定を変更しました
-- Bobbyを削除しました
-- 一部リソースパックが導入されていない問題に対処しました
-- Climb Ladders Fastを削除しました
-- Simple Vein Minerの設定を変更しました
-- Double Doorsを追加しました
-- Visual Workbenchを追加しました
-- You're in Grave Dangerを追加しました
-- Polymorphic Energisticsを追加しました
-- Applied Energistics 2の設定を変更しました
-- 音周りの設定を変更しました
-- Fancy Block Particlesの設定を変更しました
-- BCLibの設定を変更しました
-- Right Click Harbestの設定を変更しました
-- Smooth Scrolling Refurbishedを追加しました
-- Durability 101を追加しました
-- Auto HUDを追加しました
+- Visual Workbenchを削除しました
+- HUDの見た目、キー設定を変更しました
+- First Aidを追加しました
+- Crafting Tweaksを追加しました
+- Tough As Nailsの設定を変更しました
+- Slot Cyclerを追加しました
+- Clear Despawnを追加しました
+- Inventory Totemを追加しました
+- Item Scrollerを追加しました
+- Horse Stats Vanillaを追加しました
+- Jump Over Fencesを追加しました
+- Eating Animationを追加しました
+- Spyglass Improvements: Zoom, Quick Access...を追加しました
+- スライムとマグマキューブのエフェクト重複を修正しました
+- Physicsの設定を変更しました
+- いくつかのMODを更新しました
