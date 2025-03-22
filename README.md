@@ -20,6 +20,7 @@ There are so many debuggable insidents!
 **[Changes]**
 - Delete Auto HUD
 - Change configs of shader
+- Delete Visual Workbench
 
 <br>
 <br>
@@ -34,3 +35,4 @@ There are so many debuggable insidents!
 **[変更内容]**
 - Auto HUDを削除しました
 - 影MODの設定を変更しました
+- Visual Workbenchを削除しました
