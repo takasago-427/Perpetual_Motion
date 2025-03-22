@@ -33,6 +33,7 @@ There are so many debuggable insidents!
 - Delete Visual Workbench
 - Change configs of HUD and key-binding
 - Add First Aid
+- Add Crafting Tweaks
 
 <br>
 <br>
@@ -60,3 +61,4 @@ There are so many debuggable insidents!
 - Visual Workbenchを削除しました
 - HUDの見た目、キー設定を変更しました
 - First Aidを追加しました
+- Crafting Tweaksを追加しました
