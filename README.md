@@ -45,6 +45,7 @@ There are so many debuggable insidents!
 - Add Spyglass Improvements: Zoom, Quick Access...
 - Fix overlaps of effects over slimes and magma cubes
 - Change configs of Physics
+- Update some mods
 
 <br>
 <br>
@@ -84,3 +85,4 @@ There are so many debuggable insidents!
 - Spyglass Improvements: Zoom, Quick Access...を追加しました
 - スライムとマグマキューブのエフェクト重複を修正しました
 - Physicsの設定を変更しました
+- いくつかのMODを更新しました
