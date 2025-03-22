@@ -33,6 +33,7 @@ There are so many debuggable insidents!
 - Add Jump Over Fences
 - Add Eating Animation
 - Add Spyglass Improvements: Zoom, Quick Access...
+- Fix overlaps of effects over slimes and magma cubes
 
 <br>
 <br>
@@ -60,3 +61,4 @@ There are so many debuggable insidents!
 - Jump Over Fencesを追加しました
 - Eating Animationを追加しました
 - Spyglass Improvements: Zoom, Quick Access...を追加しました
+- スライムとマグマキューブのエフェクト重複を修正しました
