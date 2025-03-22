@@ -27,6 +27,7 @@ There are so many debuggable insidents!
 - Change configs of Tough As Nails
 - Add Slot Cycler
 - Add Clear Despawn
+- Add Inventory Totem
 
 <br>
 <br>
@@ -48,3 +49,4 @@ There are so many debuggable insidents!
 - Tough As Nailsの設定を変更しました
 - Slot Cyclerを追加しました
 - Clear Despawnを追加しました
+- Inventory Totemを追加しました
