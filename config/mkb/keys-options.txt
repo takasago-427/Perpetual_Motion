@@ -38,8 +38,6 @@ key_key.ae2.wireless_terminal:key.keyboard.unknown:NONE
 key_key.ae2.portable_item_cell:key.keyboard.unknown:NONE
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown:NONE
 key_key.ae2.guide:key.keyboard.w:NONE
-key_key.autohud.toggle-hud:key.keyboard.g:NONE
-key_key.autohud.peek-hud:key.keyboard.r:NONE
 key_keybinds.bettercombat.feint:key.keyboard.unknown:NONE
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown:NONE
 key_key.carry.desc:key.mouse.5:NONE
