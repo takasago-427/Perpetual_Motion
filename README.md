@@ -31,6 +31,7 @@ There are so many debuggable insidents!
 - Add Item Scroller
 - Add Horse Stats Vanilla
 - Add Jump Over Fences
+- Add Eating Animation
 
 <br>
 <br>
@@ -56,3 +57,4 @@ There are so many debuggable insidents!
 - Item Scrollerを追加しました
 - Horse Stats Vanillaを追加しました
 - Jump Over Fencesを追加しました
+- Eating Animationを追加しました
