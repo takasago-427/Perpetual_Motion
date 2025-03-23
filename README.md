@@ -1,6 +1,4 @@
-# Perpetual Motion Alpha 1 - Test 5 (SERVER)
-
-<br>
+# Perpetual Motion Alpha 1 - Release 1 (SERVER)
 
 ### <p style="text-align: center;"><strong>[Two languages are supported]</strong></p><p style="text-align: center;">
 
@@ -13,9 +11,11 @@
 
 ## **ENGLISH**
 
-This is a branch of Alpha 1 version.
+Base MODs are configured (useful mods, shaders, etc)
 
-There are so many debuggable insidents!
+It is checked which you can reach Ender Dragon!
+
+I will configure other mods, quests, game balances, etc at Alpha 2
 
 <br>
 
@@ -28,23 +28,10 @@ There are so many debuggable insidents!
 <br>
 
 **[Changes]**
-- Fix issue - connection is lost when guns from tacz is shot is not fixed
-- Delete Auto HUD
-- Delete Visual Workbench
-- Change configs of HUD and key-binding
-- Add First Aid
-- Add Crafting Tweaks
-- Change configs of Tough As Nails
-- Add Slot Cycler
-- Add Clear Despawn
-- Add Inventory Totem
-- Add Item Scroller
-- Add Horse Stats Vanilla
-- Add Jump Over Fences
-- Add Eating Animation
-- Add Spyglass Improvements: Zoom, Quick Access...
-- Fix overlaps of effects over slimes and magma cubes
-- Change configs of Physics
+- Change key-bindings
+- Delete Crafting Tweaks
+- Delete First Aid
+- Delete Clear Despawn
 - Update some mods
 
 <br>
@@ -53,9 +40,11 @@ There are so many debuggable insidents!
 
 ## **日本語**
 
-これはリリース Alpha1 のテストバージョンです
+基本的なMODが調整されました(便利系MOD、影MODなど)
 
-問題点が非常に多くなっています！
+エンダードラゴンの討伐まで可能なことを確認しています！
+
+その他MOD、クエスト、バランス調整などはAlpha 2でする予定です
 
 <br>
 
@@ -68,21 +57,8 @@ There are so many debuggable insidents!
 <br>
 
 **[変更内容]**
-- taczの銃を撃つと接続が切断される問題を修正できていない問題を修正しました
-- Auto HUDを削除しました
-- Visual Workbenchを削除しました
-- HUDの見た目、キー設定を変更しました
-- First Aidを追加しました
-- Crafting Tweaksを追加しました
-- Tough As Nailsの設定を変更しました
-- Slot Cyclerを追加しました
-- Clear Despawnを追加しました
-- Inventory Totemを追加しました
-- Item Scrollerを追加しました
-- Horse Stats Vanillaを追加しました
-- Jump Over Fencesを追加しました
-- Eating Animationを追加しました
-- Spyglass Improvements: Zoom, Quick Access...を追加しました
-- スライムとマグマキューブのエフェクト重複を修正しました
-- Physicsの設定を変更しました
+- キー設定を変更しました
+- Crafting Tweaksを削除しました
+- First Aidを削除しました
+- Clear Despawnを削除しました
 - いくつかのMODを更新しました
