@@ -1,6 +1,4 @@
-# Perpetual Motion Alpha 1 - Release 1
-
-<br>
+# Perpetual Motion Alpha 1 - Release 1 (SERVER)
 
 ### <p style="text-align: center;"><strong>[Two languages are supported]</strong></p><p style="text-align: center;">
 
